@@ -1,1 +1,4 @@
-# Investment-Analysis-of-Local-Smartphone-Manufacturing-in-Pakistan
+This project analyzes the investment viability of domestic smartphone manufacturing in Pakistan under the Mobile Device Manufacturing Policy (MDMP). With the local market demand nearing 22–40 million phones annually and government incentives (0% duty on SKD/CKD kits, tax holidays), the report evaluates the profitability of setting up a local assembly plant compared to an import-based model.
+
+Using financial modeling tools like Net Present Value (NPV), Internal Rate of Return (IRR), and Payback Period, along with real-world data and case studies (Infinix, Tecno, Samsung), we conclude that local manufacturing yields a higher NPV and IRR with a ~3-year payback. This repository includes the complete financial model, policy review, and strategic recommendations to guide investors and policymakers on fostering a sustainable smartphone manufacturing ecosystem in Pakistan.
+
